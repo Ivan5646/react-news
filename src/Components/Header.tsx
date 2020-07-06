@@ -6,7 +6,6 @@ function Header() {
     return (
         <AppBar>
             <div>Home</div>  
-            <div>Login</div> 
             <AuthButton />
         </AppBar>
     )
